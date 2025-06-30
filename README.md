@@ -15,7 +15,7 @@ This project showcases a comprehensive sales analysis of Amazon data using Power
        - Contribution of different regions to total sales (using Donut Chart).</p>
 <p><b> d.) Total Sales by Product: </b><br>
        - Analyse sales distribution among various Adidas producst (using Bar Chart).</p>
-<b><p> e.) Total Sales by Retailer: </p><br>
+<p><b> e.) Total Sales by Retailer: </b><br>
        - Visualise the contribution of different retailers to total sales (using Bar Chart).</p>
 
 ## The Dashboard
