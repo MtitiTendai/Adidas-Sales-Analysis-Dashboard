@@ -20,3 +20,5 @@ This project showcases a comprehensive sales analysis of Amazon data using Power
 
 ## The Dashboard
 - <a href= 'https://github.com/MtitiTendai/Amazon-Sales-Analysis-Dashboard/blob/main/dashboard.png'>Dashboard</a>
+![dashboard](https://github.com/user-attachments/assets/be94b054-2621-49b9-8edb-31b73d229090)
+
