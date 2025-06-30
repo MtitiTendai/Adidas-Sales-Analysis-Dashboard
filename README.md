@@ -1,2 +1,3 @@
-# Amazon-Sales-Analysis-Dashboard
-This project showcases a comprehensive sales analysis of Amazon data using Power BI. I built an interactive dashboard that examines sales performance across multiple dimensions, including product categories, regions, customer types, and time periods. The goal was to identify hidden patterns in Amazon Sales data and support decision-making.
+# Amazon-Sales-Analysis
+## Project objective
+This project showcases a comprehensive sales analysis of Amazon data using Power BI. I built an interactive dashboard that examines sales performance across multiple dimensions, including product categories, regions and dates among other factors. The goal was to come up with visual analytics of sales between 2020 and 2021 to support strategic decision-making.
