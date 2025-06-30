@@ -7,7 +7,7 @@ This project showcases a comprehensive sales analysis of Amazon data using Power
 - <a href= 'https://github.com/MtitiTendai/Amazon-Sales-Analysis-Dashboard/blob/main/Adidas%20US%20Sales%20Datasets.xlsx'>Sales Data</a>
 
 ## Problem Statement (KPIs)
-<p> a.) Total Sales by Month:
+<p> a.) Total Sales by Month: <br>
        - Visualise the monthly distribution of total sales to identify peak periods (using Area Chart).</p>
 <p> b.) Total Sales by State:
        - Geographical representations of total sales across different states (using Field Map).</p>
