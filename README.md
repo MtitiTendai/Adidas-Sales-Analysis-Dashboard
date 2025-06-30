@@ -9,13 +9,13 @@ This project showcases a comprehensive sales analysis of Amazon data using Power
 ## Problem Statement (KPIs)
 <p> a.) Total Sales by Month: <br>
        - Visualise the monthly distribution of total sales to identify peak periods (using Area Chart).</p>
-<p> b.) Total Sales by State:
+<p> b.) Total Sales by State: <br>
        - Geographical representations of total sales across different states (using Field Map).</p>
-<p> c.) Total Sales by Region:
+<p> c.) Total Sales by Region: <br>
        - Contribution of different regions to total sales (using Donut Chart).</p>
-<p> d.) Total Sales by Product:
+<p> d.) Total Sales by Product: <br>
        - Analyse sales distribution among various Adidas producst (using Bar Chart).</p>
-<p> e.) Total Sales by Retailer:
+<p> e.) Total Sales by Retailer: <br>
        - Visualise the contribution of different retailers to total sales (using Bar Chart).</p>
 
 ## The Dashboard
