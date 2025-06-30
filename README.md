@@ -19,6 +19,6 @@ This project showcases a comprehensive sales analysis of Amazon data using Power
        - Visualise the contribution of different retailers to total sales (using Bar Chart).</p>
 
 ## The Dashboard
-- <a href= 'https://github.com/MtitiTendai/Amazon-Sales-Analysis-Dashboard/blob/main/dashboard.png'>Dashboard</a>
+- <a href= 'https://github.com/MtitiTendai/Amazon-Sales-Analysis-Dashboard/blob/main/dashboard.png'>Dashboard</a> <br><br><br>
 ![dashboard](https://github.com/user-attachments/assets/be94b054-2621-49b9-8edb-31b73d229090)
 
