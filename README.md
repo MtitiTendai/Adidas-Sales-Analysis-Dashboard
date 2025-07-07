@@ -31,7 +31,7 @@ Filters and Interactivity – To make the dashboard dynamic, I added slicers for
 
 Insights and Recommendations – From the analysis, I observed that Adidas had peak sales in July, while February and October were low-performing months. The West region and retailers like West Gear and Foot Locker led in total revenue. Products such as Men’s Street Footwear and Women’s Apparel performed exceptionally well. I recommended boosting marketing in off-peak months, investing in underperforming regions, and improving e-commerce performance on platforms like Amazon.
 
-# Visulisation Process for Dashboard
+# Visualisation Process for Dashboard
 
 KPI Cards for high-level metrics (sales, units, margin)
 
